@@ -3,7 +3,7 @@ import OrderModal from "../components/OrderModal"
 import { useStore } from "../store/store";
 
 
-const success = () => {
+const Success = () => {
    const payment=useStore((state)=>state.payment)
    const addPayment=useStore((state)=>state.addPayment)
   //  console.log(payment)
@@ -14,4 +14,4 @@ const success = () => {
   )
 }
 
-export default success;
+export default Success;
