@@ -23,4 +23,8 @@ for modal we use the library Mantine
 
 card NO 4242 4242 4242 4242   mm//yy    12/34 cvv 567 name zain country: usa
 
-ERROR! online payment system part in pages/success.js file we cannot collect the setOpened props proper value like pass in pages/Cart.js file line no 123.
+ERROR! online payment system part in pages/success.js file we cannot collect the setOpened props proper value like pass in pages/Cart.js file line no 123.  Improved some way but need more improved 
+
+deployment link:  https://chlo-shop.vercel.app/
+
+sanity studio link: https://chloshop.sanity.studio/
