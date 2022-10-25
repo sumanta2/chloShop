@@ -1,7 +1,7 @@
 import css from "../styles/Hero.module.css";
 import Cherry from "../assets/Cherry.png";
 import HeroImage from "../assets/HeroImage.png";
-import Pizza1 from "../assets/P1.jpg";
+import Pizza1 from "../assets/p1.jpg";
 import {UilPhone} from "@iconscout/react-unicons";
 
 
